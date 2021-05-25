@@ -1,4 +1,4 @@
-My name is Zachary Brandt. I am a data scientist with a background in music and neuroscience. I am interested in conducting academic research in the domains of music, psychology, and data science. I am a creator who loves the entire project pipeline from asking questionss, collecting data, analyzing and modeling the data, to creating web apps and slide decks. My goal in live is to create and be a resource to people who, like me, have a passion for music and science.
+My name is Zachary Brandt. I am a data scientist with a background in music and neuroscience. I am interested in conducting academic research in the domains of music, psychology, and data science. I am a creator who loves the entire project pipeline from asking questionss, collecting data, analyzing and modeling the data, to creating web apps and slide decks. My goal in life is to create and be a resource to people who, like me, have a passion for music and science.
 
 - 👋  Hi, I’m @maestrobrandt
 - 👀  I’m interested in music and data science, and finding a company that shares those passions
