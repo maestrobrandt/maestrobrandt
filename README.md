@@ -5,7 +5,7 @@ My name is Zachary Brandt. I am a data scientist with a background in music and 
 - :star:  I am skilled at Python, SQL, Tableau, and Machine Learning
 - 🌱  I’m currently learning AWS
 - 📫  You can reach me at <brandtz2019@gmail.com> or through my [LinkedIn](https://linkedin.com/in/zacharymbrandt)
-- :musical_note: Check out my podast: [The Aspiring Music Psychologist](https://anchor.fm/zachary-brandt5)
+- :musical_note: Check out my podcast: [The Aspiring Music Psychologist](https://anchor.fm/zachary-brandt5)
 
 <!---
 maestrobrandt/maestrobrandt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
